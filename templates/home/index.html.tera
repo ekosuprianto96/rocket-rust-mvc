@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Home</title>
+</head>
+<body>
+    <h1>Welcome to Rocket MVC Boilerplate</h1>
+    <p>This is the home page.</p>
+    <a href="/users">Go to Users</a>
+</body>
+</html>
