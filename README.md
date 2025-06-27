@@ -1,1 +1,1 @@
-### Boiler Palet MVC Using Rocket Rust
+### Boilerplate MVC Using Rocket Rust
